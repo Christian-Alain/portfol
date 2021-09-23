@@ -1,0 +1,20 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.menu{
+    background-color: violet;
+}
+
+.back{
+    background-color: rgb(214, 175, 168);
+    border: 2px solid #000;
+    /* width: 500px; */
+    height: 500px;
+    background-image: url("3.jpg");
+
+}
